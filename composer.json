@@ -1,7 +1,7 @@
 {
     "name": "snelling/router",
-    "description": "Router",
-    "keywords": ["router", "onroi"],
+    "description": "Simple HTTP router",
+    "keywords": ["router", "snelling", "onroi"],
     "license": "MIT",
     "authors": [
         {
